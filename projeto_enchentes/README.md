@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d346082b-f440-47da-8bc3-81e90de8ed45)# Projeto de Monitoramento de Enchentes
+# Projeto de Monitoramento de Enchentes
 
 Este projeto simula o monitoramento de uma bacia de contenção durante uma tempestade.
 
